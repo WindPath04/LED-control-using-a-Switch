@@ -11,8 +11,6 @@ void setup() {
   pinMode(5, OUTPUT);         // led4
   pinMode(6, OUTPUT);         // led5
   pinMode(7, OUTPUT);         // led6
-
-  pinMode(12, OUTPUT);        // BUZZER
   
   pinMode(9, INPUT_PULLUP);   // SW1
   pinMode(10, INPUT_PULLUP);  // SW2
